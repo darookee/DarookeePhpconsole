@@ -1,6 +1,6 @@
 <?php
 
-namespace DarookeePhpconsole\Log\Writer;
+namespace Darookee\Log\Writer;
 
 use Zend\Log\Writer\AbstractWriter;
 use Zend\Log\Exception;
