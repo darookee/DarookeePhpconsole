@@ -4,8 +4,7 @@
     "type": "library",
     "license": "BSD-3-Clause",
     "keywords": [
-        "zf2",
-        "pdf"
+        "zf2"
     ],
     "homepage": "http://darookee.net",
     "autoload": {
