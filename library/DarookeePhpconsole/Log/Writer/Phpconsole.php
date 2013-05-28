@@ -2,7 +2,6 @@
 
 namespace DarookeePhpconsole\Log\Writer;
 
-use Traversable;
 use Zend\Log\Writer\AbstractWriter;
 use Zend\Log\Exception;
 use Zend\Log\Formatter\Simple as SimpleFormatter;
